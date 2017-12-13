@@ -2,6 +2,8 @@
 
 -------------------------------------
 
+
+
 The Heliophysics Feature Catalogue provides access to existing solar and heliophysics feature data, extracted from images by automated recognition codes.
 
 See the [Heliophysics page](http://voparis-helio.obspm.fr/hfc-gui/index.php)
@@ -31,3 +33,28 @@ The features that are actively studied for checking HFC include the following
 ----------------------------------------
 
 Apart from this there are also other solar features that are actively studied. In this repository we concentrate mainly on these features.
+
+
+--------------------------------------------
+
+#### Plotting the Features
+
+##### Active Regions
+
+Plotting Active Regions in the Solar Data.
+
+* **SDO_AIA**
+
+  ![](SDO_AIA_Active.png)
+
+
+
+* **SDO_HMI_I**
+  ![](SDO_HMI_I_Active.png)
+
+--------------------------------------
+
+## Sunspots
+
+* **SDO_AIA**
+  ![](SDO_AIA_Sunspots.png)
