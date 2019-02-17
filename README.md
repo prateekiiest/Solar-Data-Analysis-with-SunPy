@@ -1,4 +1,4 @@
-### HFC - Heliophysics Feature Catalogue
+## HFC - Heliophysics Feature Catalogue
 
 -------------------------------------
 
