@@ -1,11 +1,3 @@
-#! /usr/bin/env python
-# -*-coding:Utf-8 -*
-
-"""
-This is a python client to query the Heliophysics Feature Catalogue.
-
-@author: Xavier Bonnin for LESIA 11-03-2013
-"""
 
 import sys, os
 import re
