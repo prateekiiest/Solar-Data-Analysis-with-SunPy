@@ -15,6 +15,17 @@ The features that are actively studied for checking HFC include the following
 - [ ] Active Regions :
  - An active region on the Sun is an area with an especially strong magnetic field. Sunspots frequently form in active regions. Active regions appear bright in X-ray and ultraviolet images. Solar activity, in the form of solar flares and coronal mass ejections (CMEs), is often associated with active regions.
 
+Plotting Active Regions in the Solar Data.
+
+* **SDO_AIA**
+
+  ![](HFC/SDO_AIA_Active.png)
+
+
+
+* **SDO_HMI_I**
+  ![](HFC/SDO_HMI_I_Active.png)
+
 
 
 - [ ] Coronal Holes :
@@ -23,6 +34,9 @@ The features that are actively studied for checking HFC include the following
 
 - [ ] Sunspots
    - Sunspots are temporary phenomena on the Sun's photosphere that appear as spots darker than the surrounding areas. They are regions of reduced surface temperature caused by concentrations of magnetic field flux that inhibit convection.
+
+* **SDO_AIA**
+  ![](HFC/SDO_AIA_Sunspots.png)
 
 
 - [ ] Prominence
@@ -37,24 +51,7 @@ Apart from this there are also other solar features that are actively studied. I
 
 --------------------------------------------
 
-#### Plotting the Features
 
-##### Active Regions
-
-Plotting Active Regions in the Solar Data.
-
-* **SDO_AIA**
-
-  ![](HFC/SDO_AIA_Active.png)
-
-
-
-* **SDO_HMI_I**
-  ![](HFC/SDO_HMI_I_Active.png)
 
 --------------------------------------
 
-## Sunspots
-
-* **SDO_AIA**
-  ![](HFC/SDO_AIA_Sunspots.png)
